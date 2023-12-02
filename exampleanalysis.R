@@ -17,3 +17,5 @@ head(data)
 #saving the modified data
 write.csv(data,"modified_adverseevent.csv")
 head(data)
+
+view(data)
